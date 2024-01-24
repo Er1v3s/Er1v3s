@@ -5,7 +5,6 @@
 <p align="center">🏢 I'm studying at Politechnika Opolska</p>
 <p align="center">🔭 I’m currently doing some JavaScript projects</p>
 <p align="center">👨‍💻 I’m currently learning TypeScript and C#</p>
-<p align="center">📝 In the future I want to learn Swift as a main programming language</p><br>
 
 # <p align="center">🌐 Socials: </p>
 
